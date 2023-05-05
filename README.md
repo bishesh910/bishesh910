@@ -2,7 +2,7 @@
 <h4 align="center"><samp> Hi there 👋🏾  I am Bishesh Shrestha and welcome to my Github! I'm into Chaos Engineering. I like inventing stuffs and tools. 🐍 ☁️. I love automation.</samp></h4>
 
 <p align="center">
-  <img width=70% src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  <img width=60% src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
 </p>
 
 
