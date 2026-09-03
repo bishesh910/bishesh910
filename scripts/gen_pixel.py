@@ -5,7 +5,7 @@ into ../assets relative to this file."""
 import html
 import os
 
-OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "assets")
+OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "assets", "pixel")
 
 # palette
 CREAM = "#fdf6e3"

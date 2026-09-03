@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="900" alt="Pixel-art scene — Bishesh Shrestha: security tools, web apps, AI experiments. A sunny field with a Bee Automated sign, flowers, buzzing bees and a waving pixel character." />
+  <img src="assets/pixel/header.svg" width="900" alt="Pixel-art scene — Bishesh Shrestha: security tools, web apps, AI experiments. A sunny field with a Bee Automated sign, flowers, buzzing bees and a waving pixel character." />
 </div>
 
 <br>
@@ -11,14 +11,14 @@ cozy web apps and AI experiments for fun. Most of it flies under the **[Bee Auto
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="880" alt="" /></div>
+<div align="center"><img src="assets/pixel/divider.svg" width="880" alt="" /></div>
 
 ## Right now
 
 <div align="center">
 
 <a href="https://github.com/bishesh910/opersona">
-  <img src="assets/cards/opersona.svg" width="880" alt="opersona — an AI persona that learns how you think. Your own Claude interviews you, blind prediction tests keep it honest, self-hosted on your machine." />
+  <img src="assets/pixel/cards/opersona.svg" width="880" alt="opersona — an AI persona that learns how you think. Your own Claude interviews you, blind prediction tests keep it honest, self-hosted on your machine." />
 </a>
 
 **[Try it at opersona.me](https://opersona.me)** · [source](https://github.com/bishesh910/opersona)
@@ -29,14 +29,14 @@ cozy web apps and AI experiments for fun. Most of it flies under the **[Bee Auto
 
 <div align="center">
 
-<a href="https://github.com/bishesh910/BeezPCAP"><img src="assets/cards/beezpcap.svg" width="430" alt="BeezPCAP — PCAP threat hunting with Suricata and Zeek" /></a>
-<a href="https://github.com/bishesh910/BeezScan"><img src="assets/cards/beezscan.svg" width="430" alt="BeezScan — vulnerability scanner against the NVD" /></a>
+<a href="https://github.com/bishesh910/BeezPCAP"><img src="assets/pixel/cards/beezpcap.svg" width="430" alt="BeezPCAP — PCAP threat hunting with Suricata and Zeek" /></a>
+<a href="https://github.com/bishesh910/BeezScan"><img src="assets/pixel/cards/beezscan.svg" width="430" alt="BeezScan — vulnerability scanner against the NVD" /></a>
 <br>
-<a href="https://github.com/bishesh910/Automated-CTI"><img src="assets/cards/automated-cti.svg" width="430" alt="Automated-CTI — threat intelligence feed automation" /></a>
-<a href="https://github.com/bishesh910/Fshipy"><img src="assets/cards/fshipy.svg" width="430" alt="Fshipy — ships Wazuh logs into OpenSearch" /></a>
+<a href="https://github.com/bishesh910/Automated-CTI"><img src="assets/pixel/cards/automated-cti.svg" width="430" alt="Automated-CTI — threat intelligence feed automation" /></a>
+<a href="https://github.com/bishesh910/Fshipy"><img src="assets/pixel/cards/fshipy.svg" width="430" alt="Fshipy — ships Wazuh logs into OpenSearch" /></a>
 <br>
-<a href="https://github.com/bishesh910/PlantShelf"><img src="assets/cards/plantshelf.svg" width="430" alt="PlantShelf — a calm web app for home plant keepers" /></a>
-<a href="https://github.com/bishesh910/Stressor"><img src="assets/cards/stressor.svg" width="430" alt="Stressor — syslog load-testing for log pipelines" /></a>
+<a href="https://github.com/bishesh910/PlantShelf"><img src="assets/pixel/cards/plantshelf.svg" width="430" alt="PlantShelf — a calm web app for home plant keepers" /></a>
+<a href="https://github.com/bishesh910/Stressor"><img src="assets/pixel/cards/stressor.svg" width="430" alt="Stressor — syslog load-testing for log pipelines" /></a>
 
 *…plus a few experiments still buzzing around in private hives.*
 
@@ -46,7 +46,7 @@ cozy web apps and AI experiments for fun. Most of it flies under the **[Bee Auto
 
 <div align="center">
 
-<img src="assets/toolbox.svg" width="880" alt="Toolbox — Security: Wazuh, Suricata, Zeek, OpenSearch, MISP, Elastic. Cloud and ops: AWS, Docker, Kubernetes, Ansible, Vagrant, Proxmox, Linux. Code: Python, TypeScript, Rust, Next.js, Django, Bash. Data and viz: Grafana, Kibana, MySQL, MongoDB." />
+<img src="assets/pixel/toolbox.svg" width="880" alt="Toolbox — Security: Wazuh, Suricata, Zeek, OpenSearch, MISP, Elastic. Cloud and ops: AWS, Docker, Kubernetes, Ansible, Vagrant, Proxmox, Linux. Code: Python, TypeScript, Rust, Next.js, Django, Bash. Data and viz: Grafana, Kibana, MySQL, MongoDB." />
 
 </div>
 
@@ -54,7 +54,7 @@ cozy web apps and AI experiments for fun. Most of it flies under the **[Bee Auto
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bishesh910/bishesh910/output/github-snake.svg" width="880" alt="Snake eating my contribution graph" />
+<img src="https://raw.githubusercontent.com/bishesh910/bishesh910/output/github-snake.svg?v=warm" width="880" alt="Snake eating my contribution graph" />
 
 <img src="https://streak-stats.demolab.com?user=bishesh910&hide_border=true&background=fdf6e3&ring=e76f51&fire=e76f51&currStreakLabel=8a5a2b&sideLabels=8a5a2b&currStreakNum=4a3b2a&sideNums=4a3b2a&dates=a08b6c" height="170" alt="GitHub streak" />
 
@@ -76,5 +76,5 @@ cozy web apps and AI experiments for fun. Most of it flies under the **[Bee Auto
 <br>
 
 <div align="center">
-  <img src="assets/footer.svg" width="880" alt="Thanks for stopping by!" />
+  <img src="assets/pixel/footer.svg" width="880" alt="Thanks for stopping by!" />
 </div>
