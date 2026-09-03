@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170" role="img" aria-label="opersona: an AI persona that learns how you think">
+  <defs>
+    <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#00FF41" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="878" height="168" rx="12" fill="#0d1117" stroke="#00FF41" stroke-opacity="0.45"/>
+  <text x="30" y="46" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="22" font-weight="bold" filter="url(#glow)">
+    <tspan fill="#00FF41">&#10095; </tspan><tspan fill="#e6edf3">opersona</tspan><tspan fill="#00FF41">/</tspan>
+  </text>
+  <circle cx="758" cy="40" r="5" fill="#3178c6"/>
+  <text x="850" y="45" text-anchor="end" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b949e">TypeScript</text>
+  <text x="30" y="82" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#e6edf3">How you think, not what you know.</text>
+  <text x="30" y="106" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b949e">A persistent Claude persona that learns your reasoning fingerprint — interviewed by</text>
+  <text x="30" y="126" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b949e">your own Claude, proven by blind prediction tests, self-hosted and private by construction.</text>
+  <text x="30" y="152" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#00FF41" fill-opacity="0.65"># ai  # claude  # mcp  # nextjs  # self-hosted  &#8594;  live at opersona.me</text>
+</svg>

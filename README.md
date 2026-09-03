@@ -1,113 +1,134 @@
 <div align="center">
+  <img src="assets/header.svg" width="900" alt="Terminal — $ whoami: Bishesh Shrestha, security engineer · automation addict. $ cat motto.txt: Chaos is not the enemy. Unpreparedness is. $ ls ~/now: opersona/ — teaching an AI how I think." />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Bishesh+Shrestha;Chaos+Engineer;Cloud+%26+DevOps;I+break+things+to+make+them+stronger.;Automating+everything.)](https://git.io/typing-svg)
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=bishesh910&style=flat-square&color=00ff41&label=PROFILE+VIEWS" />
+<div align="center">
+
+**[Bee Automated](https://bishesh-shrestha.com.np)** — *security automation in your hands.*
+
+I build tools that hunt threats, break systems on purpose, and automate the boring parts out of existence.
 
 </div>
 
 ---
 
-```python
-class ChaosEngineer:
-    def __init__(self):
-        self.name       = "Bishesh Shrestha"
-        self.role       = "Chaos Engineer & Cloud Tinkerer"
-        self.philosophy = "Break it. Learn from it. Build it better."
-        self.interests  = ["Chaos Engineering", "Automation", "Cloud", "Inventing tools"]
-        self.currently  = "Making systems resilient, one failure at a time."
+## `~/now` — building opersona
 
-    def say_hi(self):
-        print("Thanks for dropping by. Let's build something chaotic.")
+> **How you think, not what you know.**
 
-me = ChaosEngineer()
-me.say_hi()
+**[opersona](https://github.com/bishesh910/opersona)** gives every person on a team a **Pixie** — a persistent Claude persona that learns your *reasoning fingerprint*: how you break problems down, what you check first, when you push back. Your own Claude interviews you on claude.ai, blind prediction tests keep it honest, and everything runs self-hosted on your own subscription — your conversations never touch its server.
+
+<div align="center">
+
+<a href="https://github.com/bishesh910/opersona">
+  <img src="assets/cards/opersona.svg" width="880" alt="opersona — an AI persona that learns how you think" />
+</a>
+
+[![Live](https://img.shields.io/badge/live_at-opersona.me-0d1117?style=flat-square&logo=googlechrome&logoColor=00FF41)](https://opersona.me)
+[![MCP](https://img.shields.io/badge/claude.ai-MCP_connector-0d1117?style=flat-square&logo=anthropic&logoColor=00FF41)](https://github.com/bishesh910/opersona)
+
+</div>
+
+---
+
+## `~/projects`
+
+<div align="center">
+
+<a href="https://github.com/bishesh910/BeezPCAP"><img src="assets/cards/beezpcap.svg" width="430" alt="BeezPCAP — automated PCAP threat hunting with Suricata and Zeek" /></a>
+<a href="https://github.com/bishesh910/BeezScan"><img src="assets/cards/beezscan.svg" width="430" alt="BeezScan — vulnerability scanner against the NVD" /></a>
+<br>
+<a href="https://github.com/bishesh910/Automated-CTI"><img src="assets/cards/automated-cti.svg" width="430" alt="Automated-CTI — cyber threat intelligence automation" /></a>
+<a href="https://github.com/bishesh910/Fshipy"><img src="assets/cards/fshipy.svg" width="430" alt="Fshipy — Wazuh log streaming to OpenSearch" /></a>
+<br>
+<a href="https://github.com/bishesh910/Stressor"><img src="assets/cards/stressor.svg" width="430" alt="Stressor — high-volume syslog traffic simulator" /></a>
+<a href="https://github.com/bishesh910/AWS-Manager"><img src="assets/cards/aws-manager.svg" width="430" alt="AWS-Manager — interactive EC2 management from the terminal" /></a>
+
+</div>
+
+---
+
+## `~/stack`
+
+<div align="center">
+
+**Security & Detection**
+
+![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=flat-square&logo=wazuh&logoColor=00FF41)
+![Suricata](https://img.shields.io/badge/Suricata-0d1117?style=flat-square&logo=suricata&logoColor=00FF41)
+![Zeek](https://img.shields.io/badge/Zeek-0d1117?style=flat-square&logoColor=00FF41)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-0d1117?style=flat-square&logo=opensearch&logoColor=00FF41)
+![MISP](https://img.shields.io/badge/MISP-0d1117?style=flat-square&logoColor=00FF41)
+
+**Cloud & Ops**
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00FF41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FF41)
+![Vagrant](https://img.shields.io/badge/Vagrant-0d1117?style=flat-square&logo=vagrant&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00FF41)
+
+**Code**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00FF41)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00FF41)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=00FF41)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00FF41)
+
+**Observability & Data**
+
+![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=00FF41)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0d1117?style=flat-square&logo=elasticsearch&logoColor=00FF41)
+![Kibana](https://img.shields.io/badge/Kibana-0d1117?style=flat-square&logo=kibana&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00FF41)
+![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=00FF41)
+
+</div>
+
+---
+
+## `~/stats`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bishesh910/bishesh910/output/github-snake.svg" width="880" alt="Snake eating my contribution graph" />
+
+<img src="https://streak-stats.demolab.com?user=bishesh910&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" height="170" alt="GitHub streak" />
+
+</div>
+
+---
+
+## `~/connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF41)](https://np.linkedin.com/in/bishesh-shrestha-b05bb91a0)
+[![Medium](https://img.shields.io/badge/Medium-0d1117?style=flat-square&logo=medium&logoColor=00FF41)](https://medium.com/@bishesh404)
+[![Website](https://img.shields.io/badge/bishesh--shrestha.com.np-0d1117?style=flat-square&logo=googlechrome&logoColor=00FF41)](https://bishesh-shrestha.com.np)
+[![Buy Me A Coffee](https://img.shields.io/badge/buy_me_a_coffee-0d1117?style=flat-square&logo=buymeacoffee&logoColor=00FF41)](https://buymeacoffee.com/bishesh910)
+
+<img src="https://komarev.com/ghpvc/?username=bishesh910&style=flat-square&color=00ff41&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+$ systemctl status bishesh
+● bishesh.service — build tools · break systems · automate everything
+     Active: active (running)
+      Motto: "Chaos is not the enemy. Unpreparedness is."
 ```
 
----
-
-<div align="center">
-
-## Tech Arsenal
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF41)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=00FF41)
-
-**Backend**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=00FF41)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF41)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00FF41)
-![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=00FF41)
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=oracle&logoColor=00FF41)
-![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=mariadb&logoColor=00FF41)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00FF41)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=00FF41)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=00FF41)
-![Vagrant](https://img.shields.io/badge/Vagrant-000000?style=flat-square&logo=vagrant&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF41)
-etc etc
-
-**Monitoring & Observability**
-
-![Grafana](https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=00FF41)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-000000?style=flat-square&logo=elasticsearch&logoColor=00FF41)
-![Kibana](https://img.shields.io/badge/Kibana-000000?style=flat-square&logo=kibana&logoColor=00FF41)
-
-**Testing & API**
-
-![Cypress](https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress&logoColor=00FF41)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=00FF41)
-
-</div>
-
----
-
-<div align="center">
-
-## GitHub Activity
-
-[![bishesh910's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishesh910&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://np.linkedin.com/in/bishesh-shrestha-b05bb91a0)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=00FF41)](https://medium.com/@bishesh404)
-[![Website](https://img.shields.io/badge/bishesh--shrestha.com.np-000000?style=flat-square&logo=googlechrome&logoColor=00FF41)](https://bishesh-shrestha.com.np)
-[![Buy Me A Coffee](https://img.shields.io/badge/buy_me_a_coffee-000000?style=flat-square&logo=buymeacoffee&logoColor=00FF41)](https://buymeacoffee.com/bishesh910)
-
-</div>
-
----
-
-<div align="center">
-
-```
-> system.status .......... ONLINE
-> mission ................ build tools. break systems. automate everything.
-> motto .................. "Chaos is not the enemy. Unpreparedness is."
-```
-
-*Check out my repos below — things might be broken on purpose.*
+*Things in my repos might be broken on purpose.*
 
 </div>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="140" viewBox="0 0 430 140" role="img" aria-label="AWS-Manager: Interactive Bash menu for managing AWS EC2 straight from the terminal.">
+  <rect x="1" y="1" width="428" height="138" rx="10" fill="#0d1117" stroke="#00FF41" stroke-opacity="0.28"/>
+  <text x="26" y="38" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="16" font-weight="bold">
+    <tspan fill="#00FF41">&#10095; </tspan><tspan fill="#e6edf3">AWS-Manager</tspan><tspan fill="#00FF41">/</tspan>
+  </text>
+  <text x="26" y="72" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b949e">Interactive Bash menu for managing AWS EC2</text><text x="26" y="92" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b949e">straight from the terminal.</text>
+  <text x="26" y="120" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#00FF41" fill-opacity="0.65"># aws  # ec2  # bash</text>
+  <circle cx="355" cy="33" r="5" fill="#89e051"/>
+  <text x="404" y="38" text-anchor="end" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8b949e">Shell</text>
+</svg>

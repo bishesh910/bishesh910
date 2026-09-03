@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="140" viewBox="0 0 430 140" role="img" aria-label="Automated-CTI: Automates bulky cyber threat intelligence work — sorts, dedupes and enriches IOC feeds.">
+  <rect x="1" y="1" width="428" height="138" rx="10" fill="#0d1117" stroke="#00FF41" stroke-opacity="0.28"/>
+  <text x="26" y="38" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="16" font-weight="bold">
+    <tspan fill="#00FF41">&#10095; </tspan><tspan fill="#e6edf3">Automated-CTI</tspan><tspan fill="#00FF41">/</tspan>
+  </text>
+  <text x="26" y="72" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b949e">Automates bulky cyber threat intelligence work —</text><text x="26" y="92" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8b949e">sorts, dedupes and enriches IOC feeds.</text>
+  <text x="26" y="120" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#00FF41" fill-opacity="0.65"># cti  # iocs  # automation</text>
+  <circle cx="348" cy="33" r="5" fill="#3572A5"/>
+  <text x="404" y="38" text-anchor="end" font-family="'SF Mono','Cascadia Code','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#8b949e">Python</text>
+</svg>
